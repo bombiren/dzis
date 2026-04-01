@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <link rel="stylesheet" href="m.css" />
+    </head>
+    <body>
+        <div class="c">
+            <div class="cc">
+                <div class="blck1">
+                    <div class="b"></div>
+                    <div class="hc">
+                        <div class="b"></div>
+                        <div class="b"></div>
+                    </div>
+                </div>
+                <div class="blck1">
+                    <div class="b"></div>
+                    <div class="hc">
+                        <div class="b"></div>
+                        <div class="b"></div>
+                    </div>
+                </div>
+                <div class="blck1">
+                    <div class="hc">
+                        <div class="b"></div>
+                        <div class="b"></div>
+                    </div>
+                </div>
+            </div>
+            <hr />
+            <div class="cc">
+                <div class="blck2">
+                    <div class="blck3">
+                        <div class="b"></div>
+                        <div class="b"></div>
+                    </div>
+                    <div class="b"></div>
+                    <div class="blck3">
+                        <div class="b"></div>
+                        <div class="b"></div>
+                    </div>
+                </div>
+                <div class="spacer"></div>
+                <div class="blck1">
+                    <div class="b"></div>
+                    <div class="blck2">
+                        <div class="b"></div>
+                        <div class="b"></div>
+                        <div class="b"></div>
+                    </div>
+                    <div class="b"></div>
+                </div>
+                <div class="spacer"></div>
+                <div class="blck2">
+                    <div class="b"></div>
+                    <div class="blck3">
+                        <div class="b"></div>
+                        <div class="b"></div>
+                    </div>
+                    <div class="b"></div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
